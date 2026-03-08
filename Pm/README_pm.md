@@ -8,7 +8,7 @@
 ## 📁 File Structure
 
 ```
-week2/day9/tuples_sets/
+week2/day9/
 ├── product_analytics.py    # Part A — E-Commerce Analytics Tool
 ├── frozenset_bundles.py    # Part B — Bundle Discount System
 ├── interview_answers.md    # Part C — Interview Questions
