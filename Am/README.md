@@ -8,7 +8,7 @@
 ## 📁 File Structure
 
 ```
-week2/day9/lists/
+week2/day9/Am/
 ├── student_system.py     # Part A — Student Management System
 ├── matrix_ops.py         # Part B — Matrix Operations
 ├── interview_answers.py  # Part C — Interview Ready
