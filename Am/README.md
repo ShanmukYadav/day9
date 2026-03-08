@@ -1,7 +1,7 @@
 # 📘 Day 9 · AM — Lists Deep Dive
 **Submission Date:** 08-03-2026 | **Due:** 23:00  
 **Topic:** List creation, indexing, slicing, list methods, list comprehensions, shallow vs deep copy  
-**Folder:** `/week2/day9/lists/`
+**Folder:** `/week2/day9/Am/`
 
 ---
 
