@@ -8,7 +8,7 @@
 ## 📁 File Structure
 
 ```
-week2/day9/
+week2/day9/Pm/
 ├── product_analytics.py    # Part A — E-Commerce Analytics Tool
 ├── frozenset_bundles.py    # Part B — Bundle Discount System
 ├── interview_answers.md    # Part C — Interview Questions
