@@ -1,7 +1,7 @@
 # 📘 Day 9 · PM — Tuples & Sets Deep Dive
 **Submission Date:** 08-03-2026 | **Due:** 23:00  
 **Topic:** Tuple creation, unpacking, named tuples, set operations, frozenset, O(1) lookup  
-**Folder:** `/week2/day9/tuples_sets/`
+**Folder:** `/week2/day9/Pm/`
 
 ---
 
